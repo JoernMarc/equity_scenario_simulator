@@ -1,0 +1,2 @@
+# equity_scenario_simulator
+Simulationstool zur Abbildung von Kapitalisierungstabellen, Durchführung von Waterfall Kalkulationen, Stimmrechtsverschiebungen und Anteilsübertragungen
